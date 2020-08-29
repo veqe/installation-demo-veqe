@@ -1,3 +1,3 @@
 # installation-demo-veqe
 
-Ainut Uusi asia on itse projectin luonti. 
+Ainut uusi asia on itse projectin luonti. 
